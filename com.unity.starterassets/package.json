@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.starterassets",
+  "displayName": "StarterAssets",
+  "version": "1.1.1",
+  "unity": "2020.3",
+  "description": "Unity Starter Assets，角色控制器",
+  "dependencies": {
+    "com.unity.cinemachine": "1.0.0",
+    "com.unity.inputsystem": "1.0.0"
+  }
+}
